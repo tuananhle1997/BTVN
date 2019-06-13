@@ -15,7 +15,7 @@ $array = [
     'description' => 'website học lập trình online',
     'description' => 'website học lập trình online',
 ];
-print_r(array_key_exists($array));
+print_r(array_key_exists('domain',$array));
 ?>
 </body>
 </html>
